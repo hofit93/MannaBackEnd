@@ -27,7 +27,7 @@ In addition, I create one main thread,
 this thread is responsibility is to write all the CRM data to the list according to the CRM priority.
 
 I set MAX_CRM parm to simulate a lot of CRM at the same time.
-I also set for each CRM a random number between 0 to 5 for the priority of the CRM calls.
+I also set for each CRM a random number between 0 to 4 for the priority of the CRM calls.
 
 
 
